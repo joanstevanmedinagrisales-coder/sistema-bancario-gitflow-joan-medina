@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto desarrollado en PHP aplicando la metodología Git Flow.
+Este proyecto corresponde al desarrollo de un Sistema Bancario utilizando PHP y aplicando la metodología Git Flow para el control de versiones.
 
 ## Funcionalidades
 
@@ -13,12 +13,20 @@ Proyecto desarrollado en PHP aplicando la metodología Git Flow.
 - Retiros
 - Transferencias
 
+## Tecnologías
+
+- PHP
+- Git
+- GitHub
+
 ## Estructura
 
-- controllers/
-- models/
-- views/
-- index.php
+```
+Mandos/
+Modelos/
+index.php
+README.md
+```
 
 ## Ramas utilizadas
 
@@ -36,4 +44,5 @@ Proyecto desarrollado en PHP aplicando la metodología Git Flow.
 Joan Esteban Medina Grisales
 
 Tecnólogo ADSO
+
 SENA

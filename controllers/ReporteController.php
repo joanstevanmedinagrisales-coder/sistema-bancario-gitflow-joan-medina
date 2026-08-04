@@ -12,3 +12,7 @@ class ReporteController
         echo "Listado de movimientos del sistema.";
     }
 }
+public function exportarReporte()
+{
+    echo "Reporte exportado correctamente.";
+}
